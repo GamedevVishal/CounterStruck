@@ -1,0 +1,14 @@
+{
+    "name": "counterstruck",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "react-scripts start"
+    },
+    "dependencies": {
+        "@react-three/fiber": "latest",
+        "react": "^17.0.0",
+        "react-dom": "^17.0.0",
+        "react-scripts": "^5.0.1",
+        "three": "latest"
+    }
+}
